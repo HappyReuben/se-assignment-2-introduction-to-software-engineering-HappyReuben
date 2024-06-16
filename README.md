@@ -83,17 +83,39 @@ Importance of VCS
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
-
+A software project manager plays a crucial role of guiding/supervising a software project from inception to completion.
+Key responsibilities of the manager include planning, communicating, resource management and managing implementation to ensure timely delivery of a project.
+When managing a software project, one may face challenges such as project deadlines, continually changing user requirements, budget constraints, the need to meet quality expectation, and also ensuring team members have necessary technical knowledge.  
 
 
 Software Maintenance:
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
-
+Software maintenance is the process of mantaining and updating software after its initial release to ensure correct and efficient functioning over time.
+Types of Maintenance activities are:
+ Corrective Maintenance to fix a problem or software bug
+ Adaptive Maintenance - updating software to meet new changes/reuirements
+ Perfective Maintenance - making the software better by adding new features and improve performance
+ Preventive Maintenance - making changes to prevent potential issues before they occur.
+Software Maintenance is essential to SDLC since it ensures longevity and usability of the software; Error correction (bug fix); adaptation to change; and performance improvement.
 
 Ethical Considerations in Software Engineering:
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+Ethical issues faced by Software engineers include
+ Security threats such as hacking;
+ Privacy concerns because of managing user's sensitive information,
+ Intellectual property eg violating software licence when using third-party code.
+ Transparency - failing to inform users about data collection practices and how the data is used,
+ Quality and reliability, misuse of software eg creating surveillance systems for security but instead being used for harmful purposes,
+ Algorithmic biases - creating algorithms that favours certain demographic.
+Software engineers ensure they adhere to ethical standards in their work by:
+ Following professional code of ethics,
+ Prioritise user privacy and security
+ Respect intellectual propoerty.
+ Ensure transparency
+ Correct algorithmic bias
+ Commit to quality and reliability.
 
 
 Submission Guidelines:
